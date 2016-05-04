@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.objectfrontier.training.factorial.FactorialTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-05-02T12:00:56" hostname="RPC01" time="0.0">
+  <properties/>
+  <testcase name="testFactorialValue[0](5, 120)" classname="com.objectfrontier.training.factorial.FactorialTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2016-04-25T11:00:47Z" finished-at="2016-04-25T11:00:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2016-04-25T11:00:47Z" finished-at="2016-04-25T11:00:47Z">
+      <class name="com.objectfrontier.training.math.MathTest">
+        <test-method status="PASS" signature="testDivide(int, int)[pri:0, instance:com.objectfrontier.training.math.MathTest@1d384ee]" name="testDivide" duration-ms="0" started-at="2016-04-25T16:30:47Z" data-provider="dpDivide" finished-at="2016-04-25T16:30:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivide -->
+        <test-method status="PASS" signature="testAdd(int, int)[pri:0, instance:com.objectfrontier.training.math.MathTest@1d384ee]" name="testAdd" duration-ms="0" started-at="2016-04-25T16:30:47Z" data-provider="dpAdd" finished-at="2016-04-25T16:30:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testSub(int, int)[pri:0, instance:com.objectfrontier.training.math.MathTest@1d384ee]" name="testSub" duration-ms="0" started-at="2016-04-25T16:30:47Z" data-provider="dpSub" finished-at="2016-04-25T16:30:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method status="PASS" signature="testMult(int, int)[pri:0, instance:com.objectfrontier.training.math.MathTest@1d384ee]" name="testMult" duration-ms="0" started-at="2016-04-25T16:30:47Z" data-provider="dpMulti" finished-at="2016-04-25T16:30:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMult -->
+      </class> <!-- com.objectfrontier.training.math.MathTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,26 @@
+rootProject.name = 'MaveExample'
+include ':FirstProject:Math'
+include ':FirstProject:Factorial'
+include ':FirstProject:PrimeNo'
+include ':FirstProject'
+include ':SecondParent:Inheritance'
+include ':SecondParent:Polymorphism'
+include ':SecondParent:Encapsulation'
+include ':SecondParent'
+include ':ThridParent:MethodOverridingSolution'
+include ':ThridParent:MethoOverloadingSolution'
+include ':ThridParent:AggregationSolution'
+include ':ThridParent'
+
+project(':FirstProject:Math').projectDir = "$rootDir/FirstProject/Math" as File
+project(':FirstProject:Factorial').projectDir = "$rootDir/FirstProject/Factorial" as File
+project(':FirstProject:PrimeNo').projectDir = "$rootDir/FirstProject/PrimeNo" as File
+project(':FirstProject').projectDir = "$rootDir/FirstProject" as File
+project(':SecondParent:Inheritance').projectDir = "$rootDir/SecondParent/Inheritance" as File
+project(':SecondParent:Polymorphism').projectDir = "$rootDir/SecondParent/Polymorphism" as File
+project(':SecondParent:Encapsulation').projectDir = "$rootDir/SecondParent/Encapsulation" as File
+project(':SecondParent').projectDir = "$rootDir/SecondParent" as File
+project(':ThridParent:MethodOverridingSolution').projectDir = "$rootDir/ThridParent/MethodOverridingSolution" as File
+project(':ThridParent:MethoOverloadingSolution').projectDir = "$rootDir/ThridParent/MethoOverloadingSolution" as File
+project(':ThridParent:AggregationSolution').projectDir = "$rootDir/ThridParent/AggregationSolution" as File
+project(':ThridParent').projectDir = "$rootDir/ThridParent" as File

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2016-04-25T07:35:40Z" finished-at="2016-04-25T07:35:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2016-04-25T07:35:40Z" finished-at="2016-04-25T07:35:40Z">
+      <class name="com.objectfrontier.training.factorial.FactorialTest">
+        <test-method status="PASS" signature="testFactorialValue(int, int)[pri:0, instance:com.objectfrontier.training.factorial.FactorialTest@670002]" name="testFactorialValue" duration-ms="0" started-at="2016-04-25T13:05:40Z" data-provider="dpFactorialValue" finished-at="2016-04-25T13:05:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[120]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactorialValue -->
+      </class> <!-- com.objectfrontier.training.factorial.FactorialTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

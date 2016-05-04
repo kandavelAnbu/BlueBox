@@ -1,0 +1,6 @@
+group = 'com.objectfrontier.training.factorial'
+description = 'Factorial'
+dependencies {
+    compile group: 'org.testng', name: 'testng', version:'6.8.8'
+}
+test.useTestNG()

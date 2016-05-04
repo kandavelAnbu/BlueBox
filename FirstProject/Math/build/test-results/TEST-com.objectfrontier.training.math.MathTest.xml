@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.objectfrontier.training.math.MathTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-05-02T12:00:57" hostname="RPC01" time="0.0">
+  <properties/>
+  <testcase name="testAdd[0](3, 5)" classname="com.objectfrontier.training.math.MathTest" time="0.0"/>
+  <testcase name="testDivide[0](5, 5)" classname="com.objectfrontier.training.math.MathTest" time="0.0"/>
+  <testcase name="testMult[0](5, 5)" classname="com.objectfrontier.training.math.MathTest" time="0.0"/>
+  <testcase name="testSub[0](5, 5)" classname="com.objectfrontier.training.math.MathTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

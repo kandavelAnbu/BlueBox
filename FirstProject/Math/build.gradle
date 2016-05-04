@@ -1,0 +1,6 @@
+group = 'com.objectfrontier.training.math'
+description = 'Math'
+dependencies {
+    testCompile group: 'org.testng', name: 'testng', version:'6.8.8'
+}
+test.useTestNG()
